@@ -21,3 +21,5 @@ ActiveModel::Serializers to generate the specified JSON responses.
 
 Get the tests to pass!
 
+
+<a href='https://learn.co/lessons/json-palooza' data-visibility='hidden'>View this lesson on Learn.co</a>
